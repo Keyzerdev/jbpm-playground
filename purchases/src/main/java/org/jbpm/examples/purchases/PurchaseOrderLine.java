@@ -56,12 +56,7 @@ static final long serialVersionUID = 1L;
         this.unitPrice = unitPrice;
     }
     
-    public String toString()
-    {
-        return ""+total+";"+ amount +";"+ description;
-        
-        
-    }
+   
 
 
 
