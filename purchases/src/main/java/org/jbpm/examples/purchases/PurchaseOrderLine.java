@@ -55,6 +55,13 @@ static final long serialVersionUID = 1L;
     public void setUnitPrice(  java.lang.Double unitPrice ) {
         this.unitPrice = unitPrice;
     }
+    
+    public String toString()
+    {
+        return ""+total+"\n"+amount+"\n"+description;
+        
+        
+    }
 
 
 
