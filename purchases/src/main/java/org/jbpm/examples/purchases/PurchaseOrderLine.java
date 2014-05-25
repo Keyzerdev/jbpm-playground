@@ -58,7 +58,7 @@ static final long serialVersionUID = 1L;
     
     public String toString()
     {
-        return ""+total+"\n"+amount+"\n"+description;
+        return ""+total+";"+ amount +";"+ description;
         
         
     }
